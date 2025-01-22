@@ -43,3 +43,8 @@ reporting will include in-depth analysis, evidence charts, and timelines to prov
 <h2>Conclusion</h2>
 
 <p>The investigative plan outlined is designed to address the suspected policy violation effectively while upholding forensic best practices. Our team aims to provide senior management with clear and actionable insights by meticulously collecting, preserving, and analyzing digital evidence. This approach seeks to resolve the current issue and reinforces the company's commitment to protecting its proprietary information and maintaining robust security protocols.</p>
+
+<h2>References</h2>
+
+- National Institute of Standards and Technology. (2006). Guide to Integrating Forensic Techniques into Incident Response (NIST Special Publication 800-86). https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-86.pdf
+- International Organization for Standardization. (2012). Information Technology—Security Techniques—Guidelines for Identification, Collection, Acquisition and Preservation of Digital Evidence (ISO/IEC 27037:2012).
