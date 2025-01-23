@@ -2,7 +2,7 @@
 
 <h2>Description</h2>
 
-<p>As more companies store information electronically, there is an increased need for digital forensics to discover the trails of illegal or malicious acts. In this task, I used the scenario to develop an investigative plan of action that will prepare my investigative team to conduct an analysis on the gathered evidence.</p>
+<p>As more companies store information electronically, there is an increased need for digital forensics to discover the trails of illegal or malicious acts. In this project, I used the scenario to develop an investigative plan of action that will prepare my investigative team to conduct an analysis on the gathered evidence.</p>
 
 <h2>Scenario</h2>
 
